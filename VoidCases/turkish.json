@@ -174,10 +174,10 @@
     "just_got_bought": "Ürününüz şimdi satıldı:",
     "trading_end": "Ticaret sona erdi",
     "hour_short": "Saat",
-    "limit_reached_perma": "Sadece %s kalıcı silah donatabilirsiniz!",
+    "limit_reached_perma": " %s kalıcı silah donatabilirsiniz!",
     "trading_requestsent": "Ticaret isteği gönderildi",
     "dont_annouce": "Duyurulmasın",
-    "annouce_win": "%s sadece %s kutusundan çıkardı!",
+    "annouce_win": "İnanılmaz! %s kasadan %s çıkarttı! Tebrikler :)",
     "opening_case": "KUTU AÇILIYOR: %s",
 
     "edit_items": "Öğeleri Düzenle",
